@@ -1,0 +1,6 @@
+{
+  "name": "SEO & Review Traffic Analyzer",
+  "description": "Analyze website traffic, suggest real-time SEO improvements, identify content gaps, track keyword trends, and intercept negative customer reviews with automated gift cards before submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
